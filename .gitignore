@@ -1,0 +1,7 @@
+node_modules/
+.vercel/
+.DS_Store
+*.log
+
+# Duplicate archive; extracted Stitch source is tracked.
+/stitch_modern_personal_portfolio_website.zip
